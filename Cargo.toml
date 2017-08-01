@@ -1,0 +1,6 @@
+[package]
+name = "generate-aliases"
+version = "0.1.0"
+authors = ["Umayr Shahid <umayrr@hotmail.co.uk>"]
+
+[dependencies]
