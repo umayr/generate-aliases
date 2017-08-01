@@ -1,6 +1,9 @@
 [package]
-name = "generate-aliases"
+name = "fishy-alias"
 version = "0.1.0"
 authors = ["Umayr Shahid <umayrr@hotmail.co.uk>"]
+description = "generate fish alias functions from bash like alias file"
+license = "MIT"
+readme = "./README.md"
 
 [dependencies]
